@@ -31,4 +31,16 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0009-palindrome-number) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
