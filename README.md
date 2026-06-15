@@ -38,9 +38,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
