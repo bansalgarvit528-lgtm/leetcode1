@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0202-happy-number) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0198-house-robber) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
