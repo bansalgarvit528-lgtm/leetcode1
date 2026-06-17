@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0075-sort-colors) |
+| [0198-house-robber](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0198-house-robber) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0176-second-highest-salary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
