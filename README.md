@@ -56,4 +56,8 @@
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3612-process-string-with-special-operations-i) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
