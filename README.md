@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
