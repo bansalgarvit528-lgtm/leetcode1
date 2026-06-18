@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0202-happy-number) |
@@ -57,6 +58,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0202-happy-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
