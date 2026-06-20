@@ -12,6 +12,7 @@
 | [0198-house-robber](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0198-house-robber) |
 | [1732-find-the-highest-altitude](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1732-find-the-highest-altitude) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2784-check-if-array-is-good) |
 ## Greedy
@@ -45,6 +46,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0202-happy-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Linked List
 |  |
