@@ -74,6 +74,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0389-find-the-difference) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0389-find-the-difference) |
