@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0198-house-robber) |
 | [1732-find-the-highest-altitude](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1833-maximum-ice-cream-bars) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0389-find-the-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +103,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0290-word-pattern) |
@@ -115,6 +119,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1189-maximum-number-of-balloons) |
 ## Bit Manipulation
