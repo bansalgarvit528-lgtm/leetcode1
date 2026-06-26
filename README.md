@@ -21,6 +21,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2784-check-if-array-is-good) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -43,6 +44,7 @@
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -69,6 +71,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Linked List
 |  |
 | ------- |
