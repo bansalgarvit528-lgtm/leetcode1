@@ -69,6 +69,7 @@
 | [0009-palindrome-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0441-arranging-coins) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2413-smallest-even-multiple](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2520-count-the-digits-that-divide-a-number) |
