@@ -17,6 +17,7 @@
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1732-find-the-highest-altitude](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2574-left-and-right-sum-differences) |
@@ -109,6 +110,7 @@
 | [0389-find-the-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
