@@ -76,6 +76,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3536-maximum-product-of-two-digits) |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Linked List
 |  |
 | ------- |
@@ -197,4 +199,9 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2413-smallest-even-multiple) |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
+## Combinatorics
+|  |
+| ------- |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 <!---LeetCode Topics End-->
