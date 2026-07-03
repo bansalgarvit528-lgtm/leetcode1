@@ -37,6 +37,7 @@
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2784-check-if-array-is-good) |
 | [3467-transform-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3467-transform-array-by-parity) |
@@ -82,6 +84,7 @@
 | [0441-arranging-coins](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0441-arranging-coins) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2413-smallest-even-multiple](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
