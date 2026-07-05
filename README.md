@@ -32,6 +32,7 @@
 | [3731-find-missing-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3842-toggle-light-bulbs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3842-toggle-light-bulbs) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3842-toggle-light-bulbs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3842-toggle-light-bulbs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1920-build-array-from-permutation) |
 | [3612-process-string-with-special-operations-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3612-process-string-with-special-operations-i) |
+| [3842-toggle-light-bulbs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3842-toggle-light-bulbs) |
 ## Database
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 | [2784-check-if-array-is-good](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3842-toggle-light-bulbs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3842-toggle-light-bulbs) |
 ## String Matching
 |  |
 | ------- |
