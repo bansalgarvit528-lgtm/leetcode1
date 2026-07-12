@@ -15,6 +15,7 @@
 | [0893-groups-of-special-equivalent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0905-sort-array-by-parity) |
 | [1046-last-stone-weight](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1046-last-stone-weight) |
+| [1331-rank-transform-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1331-rank-transform-of-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1732-find-the-highest-altitude) |
@@ -48,6 +49,7 @@
 | [0389-find-the-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0389-find-the-difference) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0905-sort-array-by-parity) |
+| [1331-rank-transform-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1331-rank-transform-of-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -160,6 +162,7 @@
 | [0389-find-the-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0389-find-the-difference) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2418-sort-the-people](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2784-check-if-array-is-good) |
