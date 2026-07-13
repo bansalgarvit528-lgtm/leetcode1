@@ -213,4 +213,8 @@
 |  |
 | ------- |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
