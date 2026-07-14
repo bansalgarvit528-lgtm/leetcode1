@@ -146,6 +146,7 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0176-second-highest-salary) |
+| [0197-rising-temperature](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0197-rising-temperature) |
 ## Dynamic Programming
 |  |
 | ------- |
