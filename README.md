@@ -16,6 +16,7 @@
 | [0905-sort-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0905-sort-array-by-parity) |
 | [1046-last-stone-weight](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1331-rank-transform-of-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1480-running-sum-of-1d-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1732-find-the-highest-altitude) |
@@ -64,6 +65,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3432-count-partitions-with-even-sum-difference) |
