@@ -23,6 +23,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2418-sort-the-people) |
@@ -97,6 +98,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1323-maximum-69-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2413-smallest-even-multiple](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -220,6 +222,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
