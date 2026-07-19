@@ -41,6 +41,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1323-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -129,6 +130,7 @@
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -142,6 +144,7 @@
 | [0389-find-the-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0796-rotate-string) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0893-groups-of-special-equivalent-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -239,4 +242,8 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1137-n-th-tribonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
