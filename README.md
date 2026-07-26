@@ -12,6 +12,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0198-house-robber) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0905-sort-array-by-parity) |
 | [1046-last-stone-weight](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1046-last-stone-weight) |
@@ -52,6 +53,7 @@
 | [0075-sort-colors](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1331-rank-transform-of-an-array) |
@@ -95,6 +97,7 @@
 | [0009-palindrome-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1323-maximum-69-number) |
