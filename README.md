@@ -17,6 +17,7 @@
 | [0905-sort-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0905-sort-array-by-parity) |
 | [1046-last-stone-weight](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1480-running-sum-of-1d-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -57,6 +58,7 @@
 | [0893-groups-of-special-equivalent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
