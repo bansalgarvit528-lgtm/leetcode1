@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
@@ -171,6 +172,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0198-house-robber) |
 | [1137-n-th-tribonacci-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Table
@@ -247,6 +249,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1137-n-th-tribonacci-number) |
 ## Monotonic Stack
 |  |
