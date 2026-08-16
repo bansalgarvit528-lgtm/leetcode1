@@ -26,6 +26,7 @@
 | [1920-build-array-from-permutation](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2418-sort-the-people) |
@@ -46,6 +47,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1323-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
@@ -106,6 +108,7 @@
 | [1323-maximum-69-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1323-maximum-69-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2413-smallest-even-multiple](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -208,6 +211,7 @@
 | [0383-ransom-note](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2029-stone-game-ix](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2029-stone-game-ix) |
 | [3467-transform-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3467-transform-array-by-parity) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
@@ -261,4 +265,20 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
