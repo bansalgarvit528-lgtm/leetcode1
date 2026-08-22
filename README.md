@@ -118,6 +118,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
