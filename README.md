@@ -14,6 +14,7 @@
 | [0198-house-robber](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0198-house-robber) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0905-sort-array-by-parity) |
 | [1046-last-stone-weight](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1046-last-stone-weight) |
@@ -90,6 +91,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0441-arranging-coins](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -284,4 +286,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2029-stone-game-ix) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
