@@ -100,6 +100,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0191-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Math
@@ -227,6 +228,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1684-count-the-number-of-consistent-strings) |
