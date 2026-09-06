@@ -36,6 +36,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2784-check-if-array-is-good) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3467-transform-array-by-parity) |
@@ -71,6 +72,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2784-check-if-array-is-good) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3731-find-missing-elements) |
@@ -95,6 +97,7 @@
 | [0441-arranging-coins](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 | [0202-happy-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0202-happy-number) |
 | [0905-sort-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0905-sort-array-by-parity) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
