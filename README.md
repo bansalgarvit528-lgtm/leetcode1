@@ -109,6 +109,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0202-happy-number) |
