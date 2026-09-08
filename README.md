@@ -12,6 +12,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0704-binary-search) |
@@ -114,6 +115,7 @@
 | [0009-palindrome-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
@@ -259,6 +261,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -271,6 +274,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1291-sequential-digits) |
 ## Memoization
 |  |
@@ -305,4 +309,16 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0852-peak-index-in-a-mountain-array) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
