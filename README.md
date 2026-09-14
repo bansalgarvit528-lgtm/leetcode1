@@ -173,6 +173,7 @@
 | [0205-isomorphic-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0796-rotate-string) |
@@ -213,6 +214,7 @@
 | [0268-missing-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0389-find-the-difference) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1189-maximum-number-of-balloons) |
@@ -234,6 +236,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2029-stone-game-ix](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2029-stone-game-ix) |
@@ -327,4 +330,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
