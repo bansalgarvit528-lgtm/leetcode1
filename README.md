@@ -14,6 +14,7 @@
 | [0198-house-robber](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0704-binary-search) |
@@ -101,6 +102,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
