@@ -14,6 +14,7 @@
 | [0198-house-robber](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -49,6 +50,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1323-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1833-maximum-ice-cream-bars) |
@@ -63,6 +65,7 @@
 | [0169-majority-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0905-sort-array-by-parity) |
@@ -258,6 +261,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
