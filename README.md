@@ -55,6 +55,7 @@
 | [2029-stone-game-ix](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [2485-find-the-pivot-integer](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2652-sum-multiples](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
