@@ -153,12 +153,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0061-rotate-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0151-reverse-words-in-a-string) |
