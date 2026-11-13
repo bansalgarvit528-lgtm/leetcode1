@@ -44,6 +44,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3467-transform-array-by-parity) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -205,6 +206,7 @@
 | [1920-build-array-from-permutation](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3612-process-string-with-special-operations-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3842-toggle-light-bulbs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
@@ -267,6 +269,7 @@
 | [0389-find-the-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
