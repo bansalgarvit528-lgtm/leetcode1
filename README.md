@@ -25,6 +25,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1732-find-the-highest-altitude) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2574-left-and-right-sum-differences) |
@@ -136,6 +138,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -227,6 +230,7 @@
 | [0198-house-robber](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0198-house-robber) |
 | [0458-poor-pigs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0458-poor-pigs) |
 | [1137-n-th-tribonacci-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
 |  |
 | ------- |
