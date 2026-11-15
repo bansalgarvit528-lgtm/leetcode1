@@ -125,6 +125,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0070-climbing-stairs) |
@@ -161,6 +162,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0061-rotate-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
@@ -367,4 +369,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
