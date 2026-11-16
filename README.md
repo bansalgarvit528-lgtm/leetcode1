@@ -205,6 +205,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2418-sort-the-people](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1920-build-array-from-permutation) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3612-process-string-with-special-operations-i) |
