@@ -380,4 +380,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0002-add-two-numbers) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
