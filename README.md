@@ -24,6 +24,7 @@
 | [1046-last-stone-weight](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
