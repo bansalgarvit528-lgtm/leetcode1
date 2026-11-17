@@ -210,6 +210,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1773-count-items-matching-a-rule) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -260,6 +261,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2784-check-if-array-is-good) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
