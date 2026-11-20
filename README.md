@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0204-count-primes) |
@@ -112,6 +113,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
