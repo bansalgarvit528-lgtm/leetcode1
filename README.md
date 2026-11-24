@@ -172,6 +172,7 @@
 | [0002-add-two-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
@@ -398,6 +399,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0206-reverse-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
