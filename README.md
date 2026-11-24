@@ -172,6 +172,7 @@
 | [0002-add-two-numbers](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -185,6 +186,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0541-reverse-string-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
