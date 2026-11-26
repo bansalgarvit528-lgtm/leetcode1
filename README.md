@@ -227,6 +227,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2418-sort-the-people](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2418-sort-the-people) |
+| [3019-number-of-changing-keys](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3498-reverse-degree-of-a-string) |
