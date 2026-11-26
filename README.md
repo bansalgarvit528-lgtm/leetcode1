@@ -160,6 +160,7 @@
 | [2652-sum-multiples](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3360-stone-removal-game](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -236,6 +237,7 @@
 | [1920-build-array-from-permutation](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/1920-build-array-from-permutation) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2553-separate-the-digits-in-an-array) |
+| [3360-stone-removal-game](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3612-process-string-with-special-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
