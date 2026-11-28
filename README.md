@@ -69,6 +69,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/2600-k-items-with-the-maximum-sum) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/bansalgarvit528-lgtm/leetcode1/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Linked List
 |  |
 | ------- |
